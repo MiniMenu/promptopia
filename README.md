@@ -1,3 +1,15 @@
+Followed : https://www.youtube.com/watch?v=wm5gMKuwSYk&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1&rv=wm5gMKuwSYk&t=4
+
+ TODO: 
+[] Implement Seach 
+    - Search by prompt
+    - Search by tag
+    - Search by username
+[] Implement Click on tag 
+[] Implement view other profile 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
